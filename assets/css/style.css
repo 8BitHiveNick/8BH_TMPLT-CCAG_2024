@@ -2011,3 +2011,7 @@ h6 {
   background-color: rgba(255, 0, 0, 0.2); /* Semi-transparent red to indicate sold */
   display: none; /* Initially hidden */
 }
+
+.speakers-details span {
+  color: #219C90;
+}
