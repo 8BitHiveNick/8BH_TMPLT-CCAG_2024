@@ -1997,6 +1997,10 @@ h6 {
   color: #ddd;
 }
 
+#footer a span{
+  color: #219C90;
+}
+
 #booth-container {
   position: relative;
   background-image: url('../img/booths/CCAG_Booth_Status.jpg');
